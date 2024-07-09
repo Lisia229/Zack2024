@@ -58,19 +58,19 @@ const songs = [
   {
     title: 'i really want to stay at your house',
     name: '電馭叛客',
-    source: 'https://github.com/Lisia229/Zack2024/blob/main/aidio/i-really-want-to-stay-at-your-house-lyric-amv-cyberpunk-edgerunners.mp3',
+    source: '../aidio/i-really-want-to-stay-at-your-house-lyric-amv-cyberpunk-edgerunners.mp3',
     cover: 'https://i.ytimg.com/an_webp/q74fX9CnqtQ/mqdefault_6s.webp?du=3000&sqp=CJiBtbQG&rs=AOn4CLD9aFhr7iWgDrnlX-9No8qUpsgDWQ'
   },
   {
     title: 'D.D.D.D',
     name: 'ドロヘドロ',
-    source: 'https://github.com/Lisia229/Zack2024/blob/main/aidio/tvanime-dorohedoro-nonkurezitsutoendeinguying-xiang-k-now_name-d-d-d-d.mp3',
+    source: '../aidio/tvanime-dorohedoro-nonkurezitsutoendeinguying-xiang-k-now_name-d-d-d-d.mp3',
     cover: 'https://i.ytimg.com/vi/hF7QDvrBT9Q/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBggy56to2hCkkbAXv6u82gWYrr6w'
   },
   {
     title: '浣熊',
     name: '洪申豪 ',
-    source: 'https://github.com/Lisia229/Zack2024/blob/main/aidio/wan-xiong-acoustic-ver.mp3',
+    source: '../aidio/wan-xiong-acoustic-ver.mp3',
     cover:
       'https://i.ytimg.com/vi/Xs-CVGZVe6Q/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFUoQzAP&rs=AOn4CLARXv_ytCdwZuMtu6Zxq9lzDeCgMg'
   }

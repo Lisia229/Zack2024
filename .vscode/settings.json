@@ -10,5 +10,6 @@
     "dist": true,
     "node_modules": true
   },
-  "hide-files.files": []
+  "hide-files.files": [],
+  "liveServer.settings.port": 5001
 }
